@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;1,500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    boz-size: border-box;
+    
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+
+    overflow-x: hidden;
+}
+
+body {
+    background-color: #13297F;
+}
+
+/* Header */
+
+header {
+    width: 100vw;
+    height: 15vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #ffff;
+    /* border-bottom: 5px solid #000; */
+}
+
+.nathanCodeIcon {
+    width: 7%;
+}
+
+/* Main */
+
+main {
+    width: 100vw;
+    height: 70vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mySelfBox {
+    width: 50%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.myDescriptionBox {
+    width: 50%;
+    height: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mySelfMiniBox {
+    width: 60%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+
+    color: #000;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.mySelfP {
+    margin: 3%;
+    
+    font-size: 1em;
+}
+
+.nathanPicture {
+    width: 30%;
+
+    border: 5px solid #fff;
+    border-radius: 100%;
+}
+
+.myDescriptionMinoBox {
+    width: 50%;
+    height: 50%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.myDescriptionP {
+    width: 80%;
+
+    font-size: 1.2em;
+}
+
+/* Footer */
+
+footer{
+    width: 100vw;
+    height: 15vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #fff;
+    /* border-top: 5px solid #000; */
+}
+
+.ramoEstudantilLogo {
+    width: 4%;
+
+    border-radius: 100%;
+}
