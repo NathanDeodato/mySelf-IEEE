@@ -25,7 +25,7 @@
 
 <h5> Deploy </h5>
 
-<a href="">
+<a href="https://myself-ieee.netlify.app/">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </a>
 
@@ -38,11 +38,11 @@
     <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' width='70px'/>
 </div>
 
-----
+---
+
 <h5> Copyright </h5>
 
 <div style="margin-top: 30px;">
     <img src="./assets/nathanCode_logo_two.png" style="width: 80px; margin-right: 40px">
     <img src="./assets/IEEE_Logo.png" width="50px">
 </div>
-
